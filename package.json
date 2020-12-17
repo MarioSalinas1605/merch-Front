@@ -16,6 +16,7 @@
   "author": "Mario Salinas",
   "license": "ISC",
   "dependencies": {
+    "@react-google-maps/api": "^2.0.2",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.15.0",
     "eslint-config-airbnb": "^18.2.1",
